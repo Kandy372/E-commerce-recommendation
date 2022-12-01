@@ -1,5 +1,8 @@
 # E-commerce-recommendation
 
+![image](https://user-images.githubusercontent.com/110466244/204891623-109c27ca-b614-44c0-a982-d29ad348a9d2.png)
+
+
 ## BUSINESS UNDERSTANDING
 ### Overview
 
